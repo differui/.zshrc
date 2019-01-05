@@ -138,4 +138,3 @@ export NVM_DIR="$HOME/.nvm"
 mkcd() { mkdir -p -- "$1" && cd -- "$1" }
 rustr() { rustc "./$1.rs" && "./$1" && rm "./$1" }
 
-
