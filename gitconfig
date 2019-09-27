@@ -1,0 +1,13 @@
+[alias]
+	c = commit
+	cm = commit --amend
+	st = status
+	a = add .
+	au = add -u
+	d = diff
+	dc = diff --cached
+	co = checkout
+	b = branch
+	pushoh = push origin head
+	pullom = push origin master
+
