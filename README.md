@@ -1,14 +1,16 @@
-.zshrc
+rc
 =====
 
-> Share my `.zshrc` :)
+> Share my configurations :)
 
 ## Usage
 
-Add next line into `.zshrc`:
-
 ```bash
-source .binrui_zshrc
+# add next line into `$HOME/.zshrc`
+source [path_to_repo]/zshrc
+
+# append gitconfig
+cat [path_to_repo]/gitconfig >> $HOME/.gitconfig
 ```
 
 ## License

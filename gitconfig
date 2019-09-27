@@ -8,6 +8,7 @@
 	dc = diff --cached
 	co = checkout
 	b = branch
+	cp = cherry-pick
 	pushoh = push origin head
 	pullom = push origin master
 
