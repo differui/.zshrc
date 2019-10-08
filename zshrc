@@ -1,10 +1,3 @@
-# Node mirrors
-export NVM_NODEJS_ORG_MIRROR=https://npm.taobao.org/mirrors/node
-export PHANTOMJS_CDNURL=http://npm.taobao.org/mirrors/phantomjs
-export ELECTRON_MIRROR=http://npm.taobao.org/mirrors/electron/
-export chromedriver_cdnurl=https://npm.taobao.org/mirrors/chromedriver
-export sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
-
 # alias auto fix git typo (i have really high speed typing)
 alias gti='git'
 alias gi='git'
